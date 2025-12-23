@@ -1,100 +1,75 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&animation=fadeIn" width="100%">
-</div>
-
-<!-- Glitch Title Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+ODDAVA+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+he%2Fhim+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+self-taught+dev+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG">
-</h1>
-
-<!-- Cyberpunk Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 </p>
 
-<!-- Profile Core -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=HELLO+WORLD;I'M+A+BACKEND+DEV;LEETCODE+120%2B">
+</p>
+
 <div align="center">
   
-  ```diff
-  @@ Self-taught software dev. Currently studying backend frameworks @@
-  @@ (Django, async stuff, whatever) and LeetCode problems (120+).  @@
-  ```
-  
+### self-taught software dev 
+*currently mastering **Django**, **Asynchronous Python**, and **System Design**.*
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode_120+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+</div>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="350">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=oddava&show_icons=true&theme=merko&border_color=599200&hide_border=true" width="350">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border_color=599200&hide_border=true" width="48%">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=oddava&theme=merko&layout=compact&border_color=599200&langs_count=6&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"> &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45">
+</p>
+
+<div align="center">
+<details>
+  <summary><b>🎮 Bored? Let's play a game</b></summary>
   <br>
-  
-  <!-- Minimal Contact -->
-  <sup>
-    <a href="mailto:oddava@proton.me">
-      <img src="https://img.shields.io/badge/░▒▓_email_▓▒░-8B89CC?style=for-the-badge&logoColor=white" alt="Email">
-    </a>
-    ░░░
-    <a href="https://twitter.com/oddava">
-      <img src="https://img.shields.io/badge/░▒▓_twitter_▓▒░-1DA1F2?style=for-the-badge&logoColor=white" alt="Twitter">
-    </a>
-  </sup>
-  
-</div>
-
-<br>
-
-<!-- Matrix Code Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=100&color=00F700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=01101000+01100101+01101100+01101100+01101111;building+%7C+learning+%7C+solving;django+%E2%96%92+async+%E2%96%92+algorithms" alt="Matrix">
-</p>
-
-<!-- Minimal Tech Stack -->
-<div align="center">
-  
-  ### ⚡ STACK
-  
-  <img src="https://skillicons.dev/icons?i=python,django,linux,vscode,git&theme=dark" />
-  
-</div>
-
-<br>
-
-<!-- ASCII Art Separator -->
-<div align="center">
-  
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░ while( ! (succeed = try() ) )  //  failure leads to understanding ░
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-<br>
-
-<!-- Mysterious Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=unknown" />
-</p>
-
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</p>
-
-<!-- Hidden Stats (collapsed for mystery) -->
-<details align="center">
-  <summary><b>⚙️ SYSTEM METRICS</b></summary>
-  <br>
+  <i>Click the board to make a move!</i>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=oddava&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddava&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" height="165">
+    <img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="30">
+    <b>Chess Tournament</b>
+    <img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="30">
   </p>
-</details>
-
-<br>
-
-<!-- Minimal Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&reversal=true" width="100%">
+  </details>
 </div>
 
-<!-- Hidden Terminal -->
 <p align="center">
-  <sub>█▓▒░ location: <code>/dev/null</code> ░▒▓█</sub>
+  <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=false" width="450">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oddava&color=0E9C47&style=for-the-badge&label=PROFILE+VIEWS">
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 </p>
