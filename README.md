@@ -53,11 +53,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img height="140em" src="https://github.com/oddava/oddava/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 
