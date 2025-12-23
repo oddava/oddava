@@ -1,17 +1,10 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=HELLO+WORLD;I'M+A+BACKEND+DEV;LEETCODE+120%2B">
-</p>
-
 <div align="center">
-  
-### self-taught software dev 
+
+### self-taught software dev
+
 *currently mastering **Django**, **Asynchronous Python**, and **System Design**.*
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode_120+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode_120+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/oddava)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -49,16 +42,15 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45">
 </p>
 
+
+
 <div align="center">
+
 <details>
-  <summary><b>🎮 Bored? Let's play a game</b></summary>
-  <br>
-  <i>Click the board to make a move!</i>
-  <p align="center">
-    <img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="30">
-    <b>Chess Tournament</b>
-    <img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="30">
-  </p>
+    <summary><b>View Activity Graph & Snake 🐍</b></summary>
+    <br>
+    <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
   </details>
 </div>
 
@@ -68,8 +60,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oddava&color=0E9C47&style=for-the-badge&label=PROFILE+VIEWS">
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 </p>
