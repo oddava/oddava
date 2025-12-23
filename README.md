@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oddava&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#008bff&height=180&section=header&text=Oddava&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%">
 </div>
 
 <!-- Profile Picture & Info -->
