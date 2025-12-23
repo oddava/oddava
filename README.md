@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ---
 
