@@ -49,7 +49,7 @@
 <details>
     <summary><b>View Activity Graph & Snake 🐍</b></summary>
     <br>
-    <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+    <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=oddava&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
     <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
   </details>
 </div>
