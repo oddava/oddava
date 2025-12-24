@@ -25,7 +25,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border_color=599200&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=oddava&theme=merko&border_color=599200&hide_border=true" width="48%">
   <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=oddava&theme=merko&layout=compact&border_color=599200&langs_count=6&hide_border=true" width="48%">
 </p>
 
