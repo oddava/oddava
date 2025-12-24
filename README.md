@@ -1,12 +1,11 @@
 <div align="center">
 
-### self-taught software dev
+### software dev
 
 *currently mastering **Django**, **Asynchronous Python**, and **System Design**.*
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode_120+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/oddava)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![X](https://img.shields.io/badge/X?style=for-the-badge&logo=X&logoColor=white)](https://www.X.com/oddava)
 
 </div>
 
@@ -50,7 +49,7 @@
     <summary><b>View Activity Graph & Snake 🐍</b></summary>
     <br>
     <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=oddava&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
+    <img src="https://github.com/oddava/oddava/blob/output/github-contribution-grid-snake.svg" width="100%">
   </details>
 </div>
 
