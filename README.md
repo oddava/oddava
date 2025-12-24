@@ -1,6 +1,6 @@
 <div align="center">
 
-### software dev
+### Backend Software Developer
 
 *currently mastering **Django**, **Asynchronous Python**, and **System Design**.*
 
