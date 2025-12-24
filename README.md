@@ -49,7 +49,11 @@
     <summary><b>View Activity Graph & Snake 🐍</b></summary>
     <br>
     <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=oddava&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-    <img src="https://github.com/oddava/oddava/blob/output/github-contribution-grid-snake.svg" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oddava/oddava/output/github-contribution-grid-snake.svg">
+    </picture>
   </details>
 </div>
 
