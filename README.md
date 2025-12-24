@@ -35,12 +35,12 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45"> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45"> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"> &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45"> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45">
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"> &nbsp;
 </p>
-
 
 
 <div align="center">
