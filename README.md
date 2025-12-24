@@ -4,7 +4,7 @@
 
 *currently mastering **Django**, **Asynchronous Python**, and **System Design**.*
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode_120+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/oddava)
+[![LeetCode](https://img.shieldzs.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/oddava)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/oddava)
 
 </div>
@@ -37,7 +37,6 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"> &nbsp;
 </p>
