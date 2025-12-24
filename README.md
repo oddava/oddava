@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" width="45"> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"> &nbsp;
 </p>
