@@ -55,9 +55,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=false" width="450">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=oddava&color=0E9C47&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
